@@ -58,6 +58,7 @@
     {"id":{"name":"spr_new_player_forward","path":"sprites/spr_new_player_forward/spr_new_player_forward.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
     {"id":{"name":"Text_box_1","path":"sprites/Text_box_1/Text_box_1.yy",},},
     {"id":{"name":"Text_box","path":"sprites/Text_box/Text_box.yy",},},
   ],
