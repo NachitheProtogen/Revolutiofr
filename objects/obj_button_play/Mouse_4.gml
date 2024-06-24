@@ -1,3 +1,3 @@
 event_inherited();
 
-room_goto(Room2);
+room_goto(rm_overworld);
