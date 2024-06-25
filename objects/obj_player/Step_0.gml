@@ -14,11 +14,27 @@ yspd= (down_key - up_key) * sprintspeed;
 x += xspd;
 y += yspd;
 
-if (x != previous_x || y != previous_y) {
-    image_speed = 1;
-} else {
-    image_speed = 0;
+var moving = false;
+
+if (x > previous_x) {
+    sprite_index = spr_new_player_right;
+    moving = true;
+} else if (x < previous_x) {
+    sprite_index = spr_new_player_left;
+    moving = true;
+} else if (y > previous_y) {
+    sprite_index = spr_new_player_forward;
+    moving = true;
+} else if (y < previous_y) {
+    sprite_index = spr_new_player_backward;
+    moving = true;
 }
 
 previous_x = x;
 previous_y = y;
+
+if (moving) {
+    image_speed = 1;
+} else {
+    image_speed = 0;
+}

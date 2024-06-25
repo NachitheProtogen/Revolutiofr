@@ -57,6 +57,8 @@
     {"id":{"name":"spr_luger","path":"sprites/spr_luger/spr_luger.yy",},},
     {"id":{"name":"spr_new_player_backward","path":"sprites/spr_new_player_backward/spr_new_player_backward.yy",},},
     {"id":{"name":"spr_new_player_forward","path":"sprites/spr_new_player_forward/spr_new_player_forward.yy",},},
+    {"id":{"name":"spr_new_player_left","path":"sprites/spr_new_player_left/spr_new_player_left.yy",},},
+    {"id":{"name":"spr_new_player_right","path":"sprites/spr_new_player_right/spr_new_player_right.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
