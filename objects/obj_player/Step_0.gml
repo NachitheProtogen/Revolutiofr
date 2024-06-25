@@ -14,3 +14,11 @@ yspd= (down_key - up_key) * sprintspeed;
 x += xspd;
 y += yspd;
 
+if (x != previous_x || y != previous_y) {
+    image_speed = 1;
+} else {
+    image_speed = 0;
+}
+
+previous_x = x;
+previous_y = y;
