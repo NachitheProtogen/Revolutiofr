@@ -53,6 +53,7 @@
     {"id":{"name":"rm_main_menue","path":"rooms/rm_main_menue/rm_main_menue.yy",},},
     {"id":{"name":"rm_overworld","path":"rooms/rm_overworld/rm_overworld.yy",},},
     {"id":{"name":"_26794a11_b812_43ac_8e07_861b9f840510","path":"sprites/_26794a11_b812_43ac_8e07_861b9f840510/_26794a11_b812_43ac_8e07_861b9f840510.yy",},},
+    {"id":{"name":"Spr_currency","path":"sprites/Spr_currency/Spr_currency.yy",},},
     {"id":{"name":"spr_enemy_test","path":"sprites/spr_enemy_test/spr_enemy_test.yy",},},
     {"id":{"name":"spr_luger","path":"sprites/spr_luger/spr_luger.yy",},},
     {"id":{"name":"spr_new_player_backward","path":"sprites/spr_new_player_backward/spr_new_player_backward.yy",},},
