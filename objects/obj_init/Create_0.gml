@@ -1,0 +1,1 @@
+global.game_state = GAME_STATE.RUNNING;

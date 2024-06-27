@@ -7,7 +7,7 @@ vspd=0;
 
 playerspeed = 2;
 
-sprintspeed = 5;
+sprintspeed = 3;
 
 previous_x = x;
 previous_y = y;
