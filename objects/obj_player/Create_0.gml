@@ -11,3 +11,5 @@ sprintspeed = 3;
 
 previous_x = x;
 previous_y = y;
+
+hp = 3;
