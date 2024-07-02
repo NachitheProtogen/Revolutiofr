@@ -51,6 +51,7 @@
     {"id":{"name":"obj_credit","path":"objects/obj_credit/obj_credit.yy",},},
     {"id":{"name":"obj_enemy_testing","path":"objects/obj_enemy_testing/obj_enemy_testing.yy",},},
     {"id":{"name":"obj_game_over","path":"objects/obj_game_over/obj_game_over.yy",},},
+    {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},},
     {"id":{"name":"obj_init","path":"objects/obj_init/obj_init.yy",},},
     {"id":{"name":"obj_pause_manager","path":"objects/obj_pause_manager/obj_pause_manager.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
