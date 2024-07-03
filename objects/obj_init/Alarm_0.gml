@@ -1,4 +1,4 @@
-if (global.enemy_count < 10) {
+if (global.enemy_count < 7) {
     instance_create_layer(random(715), random(585), layer, obj_enemy_testing);
     global.enemy_count += 1;
 }
